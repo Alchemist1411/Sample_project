@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    int a=48;
+
+    int a=20;
     int b=5;
     cout<<a+b;
     return 0;
